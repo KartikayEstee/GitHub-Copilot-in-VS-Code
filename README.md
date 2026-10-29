@@ -1,0 +1,2 @@
+# easyQuery
+Database Schema automation
